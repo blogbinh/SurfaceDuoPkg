@@ -1,12 +1,12 @@
 # Project Mu UEFI Implementation for Surface Duo
 
-## Build
+## Xây dựng
 
 Quick notes for building:
 
-- Use Ubuntu 20.04 x64
-- Generate ACPI tables with IASL
-- Follow this quick draft
+- Dùng Ubuntu bản 20.04 x64
+- Tạo ra bảng ACPI với IASL
+- Làm theo bản nháp nhanh này
 
 ```
 # Setup environment
